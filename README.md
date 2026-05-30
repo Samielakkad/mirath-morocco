@@ -44,3 +44,8 @@ Unlike basic tools that divide land by area alone, Mirath Morocco uses a **Coeff
 - **Satellite Accuracy:** GPS coordinates are derived from Google Maps; for legal registration, a certified Topographical Engineer must perform a field survey.
 - **Complex Slicing:** The current geometric slicer uses a simplified algorithm. Complex concave polygons may require manual adjustment by a professional.
 - **Soil Quality:** Coefficients are user-defined. A professional soil analysis is recommended for accurate valuation.
+
+
+---
+
+**License — All rights reserved.** This repository is shared for review only. Please **contact me before using any part of it** for any purpose. See [LICENSE](LICENSE).
