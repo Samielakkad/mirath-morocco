@@ -1,5 +1,7 @@
 # 🇲🇦 Mirath Morocco: Professional Estate Division Tool
 
+[![AI + LegalTech](https://img.shields.io/badge/AI%20%2B-LegalTech-8A2BE2)](#)
+
 **Mirath Morocco** is a high-precision, legally compliant land division application designed for Moroccan inheritance (Moudawana) and Land Registry (Conservation Foncière) standards.
 
 ## 🚀 Professional Features
